@@ -6,7 +6,7 @@
 set -uo pipefail
 
 # 1. Configuration
-GHOST_COUNT=20
+GHOST_COUNT=50
 SHELL="/bin/bash"
 HOME_DIR="/root"
 GROUP="root"
